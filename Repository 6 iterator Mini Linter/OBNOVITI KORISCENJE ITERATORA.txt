@@ -1,0 +1,1 @@
+https://www.codecademy.com/courses/learn-javascript-iterators/projects/mini-linter?course_redirect=introduction-to-javascript
